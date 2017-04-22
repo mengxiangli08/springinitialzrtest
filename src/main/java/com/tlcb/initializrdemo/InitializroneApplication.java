@@ -10,4 +10,6 @@ public class InitializroneApplication {
 		System.out.println("running-----------------");
 		SpringApplication.run(InitializroneApplication.class, args);
 	}
+
+
 }
